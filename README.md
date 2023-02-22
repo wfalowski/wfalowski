@@ -22,5 +22,5 @@ Thanks for stopping by!
 - React
 
 ## Contact
-Email: wojciech@falowski.dev
-LinkedIn: https://www.linkedin.com/in/wojciech-fa%C5%82owski/
+Email: contact@falowski.dev
+LinkedIn: https://www.linkedin.com/in/wojciech-falowski/
