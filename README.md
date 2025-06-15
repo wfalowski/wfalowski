@@ -1,26 +1,39 @@
-# Wojciech Fałowski - Web Developer
+# Hey there! 👋 I'm Wojciech Fałowski
 
-Hello and welcome to my GitHub profile! My name is Wojciech Fałowski, and I am a web developer based in Cracow, Poland. I have a strong background in web application development, with expertise in technologies such as Node.JS, TypeScript, GraphQL, and React.
+## Full Stack Developer | Solo Founder | Content Creator
 
-Here you will find a selection of my personal projects and open source contributions. Feel free to browse through my repositories to learn more about my work and interests.
+With **12 years of experience** as a Full Stack Developer, I've spent most of my career building scalable web applications and crafting elegant solutions to complex problems. My journey in tech has been focused on delivering high-quality software using modern technologies.
 
-In addition to my technical skills, I am proficient in agile development methodologies and have experience working with databases such as PostgreSQL and MongoDB.
+### 🛠️ Tech Stack
+- **Backend:** Node.js, TypeScript, GraphQL, REST APIs
+- **Frontend:** React, Next.js, React Router
+- **Databases:** PostgreSQL, MongoDB
+- **Architecture:** Microservices, Serverless, Event-driven systems
 
-If you have any questions or would like to work with me on a project, please don't hesitate to get in touch. I am always open to discussing new opportunities and ideas.
+### 🚀 Current Focus
+While maintaining my full-time position as a Senior Developer, I'm embarking on an exciting journey as a **solo founder**. I believe in the power of side projects and building products that matter. Currently working on:
 
-Thanks for stopping by!
+- **[Retuszuj.pl](https://www.retuszuj.pl)** - Professional AI photo restoration service platform
+- **[UptimeGuard](https://uptimeguard.xyz)** - Comprehensive website monitoring and alerting system
+- **[Finance Flow](https://financeflow.one)** - Personal finance management tool
 
-## Skills
-- Web application development
-- Node.JS
-- TypeScript
-- GraphQL
-- Agile development methodologies
-- PostgreSQL
-- MongoDB
-- Next.js
-- React
+Building these products in my spare time has taught me invaluable lessons about time management, product development, and the entrepreneurial mindset.
 
-## Contact
-Email: contact@falowski.dev
-LinkedIn: https://www.linkedin.com/in/wojciech-falowski/
+### 📹 Content Creation
+I'm building **Morning Founder** - a Polish YouTube channel where I'll share my entrepreneurial journey, technical insights, and lessons learned from building products as a solo developer while working full-time. Stay tuned! 🎬
+
+### 💡 What I'm About
+- Building products that solve real problems
+- Writing clean, maintainable code
+- Balancing corporate work with indie hacking
+- Sharing knowledge with the developer community
+- Continuous learning and improvement
+
+### 📫 Let's Connect
+- **Email:** contact@falowski.dev
+- **LinkedIn:** [Wojciech Fałowski](https://www.linkedin.com/in/wojciech-falowski/)
+- **Location:** Kraków, Poland 🇵🇱
+
+---
+
+*"The best way to predict the future is to build it"* - Let's build something amazing together! 🚀
