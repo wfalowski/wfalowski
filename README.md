@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:04130D,100:1CB377&text=Wojciech%20Fa%C5%82owski&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Founder%20of%20Delvero%20%C2%B7%20Tech%20Lead%20%C2%B7%20AI%20%26%20automation%20for%20business&descAlignY=58&descSize=18&animation=fadeIn" alt="Wojciech Fałowski" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:04130D,100:1CB377&text=Wojciech%20Fa%C5%82owski&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Founder%20of%20Delvero%20%C2%B7%20Tech%20Lead%20%C2%B7%20AI%20and%20automation%20for%20business&descAlignY=58&descSize=18&animation=fadeIn" alt="Wojciech Fałowski" width="100%" />
 
 <a href="https://www.falowski.dev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=800&color=2ED393&center=true&vCenter=true&width=720&lines=13+years+building+web+systems;Founder+of+Delvero+%E2%80%94+SaaS+for+Polish+SMBs;Tech+Lead+%E2%80%94+subscription+systems+for+Scandinavian+media;Building+with+Claude+Code+and+AI+agents;Writing+at+Morning+Founder+%E2%98%80%EF%B8%8F" alt="Typing intro" />
@@ -49,7 +49,7 @@ Most of my code is written **with AI agents, not instead of them**. I treat Clau
       <br /><br />
       <ul>
         <li><b><a href="https://ppozmanager.pl">PPOZ Manager</a></b> — inspections, protocols and tamper-proof documents for fire-safety companies</li>
-        <li><b><a href="https://okienko.pro">Okienko</a></b> — verdict + proof API and MCP server for Polish public registers (VAT whitelist, KRS, CEIDG, VIES, sanctions)</li>
+        <li><b><a href="https://montevo.pl">Montevo</a></b> — jobs, crews and service documentation for installation companies, with a mobile-first app for technicians in the field</li>
         <li>…and a few more in the pipeline</li>
       </ul>
     </td>
